@@ -1,0 +1,7 @@
+# Ignore Debug folder
+Debug/
+
+# Ignore user-specific Visual Studio project files
+*.vcxproj.user
+
+
