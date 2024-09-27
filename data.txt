@@ -1,0 +1,19 @@
+RecurringTask,Check Outlook Emails,Check inbox daily,No deadline,4,Weekly
+RecurringTask,Skin Care,Do your skin care every morning and night,No deadline,8,Daily
+OneTimeTask,Buy Milk,Buy milk from Kaufland,2024-03-10,5
+OneTimeTask,ATM,Take out money from the ATM,2024-04-30,2
+Task,Finish FDS Project,Complete the full code,2024-04-21,10
+Task,Finish A&D Project,Write Analysis and Design presentation for a CDs Store,2024-05-05,1
+
+Note,Meeting Notes,Discuss FDS project progress,project
+Note,Meeting Notes,Discuss A&D project progress,project
+ProtectedNote,Personal Diary,My personal thoughts,secret,password123
+PublicNote,Public Announcement,Meeting at 10 AM,announcement
+
+Goal,Learn C++,Progress in learning C++,0.5
+Goal,Lose weight,Take at least 10000 steps every day,0.7
+QuantifiableGoal,Learn FDS,Learn fds algorithms,0.9
+QuantifiableGoal,Read Books,Read 20 books this year,0.2
+QuantifiableGoal,Study Hard,Study in the library every day,0.8
+NonQuantifiableGoal,Improve Cooking Skills,Get better at cooking,0
+NonQuantifiableGoal,Be Happy,Find true happiness,0
